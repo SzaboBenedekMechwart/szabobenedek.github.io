@@ -1,1 +1,0 @@
-# szabobenedek.github.io
