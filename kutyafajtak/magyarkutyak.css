@@ -1,0 +1,50 @@
+.hasab {
+    float: left;
+    margin: right 25px;
+    max-width: 480px;
+}
+
+
+footer {
+
+
+}
+body{
+    background-color: chocolate;
+    width: 960px;
+    margin: auto;
+}
+dl dt{
+    display: inline-block;
+    min-width: 50px;
+    color: white;
+    padding-right: 5px;
+    border: solid;
+    border-color: #a52a2a;
+    border-left: 2px;
+    border-top: 2px;
+    border-bottom: 2px;
+
+}
+h2{
+    width: 96%;
+    background-color: #cd853f;
+    padding: 6px;
+    font-style: italic;
+}
+.kep{
+    width: 100px;
+    float: left;
+    border: solid 2px;
+    border-color: #a52a2a;
+    margin: 10px;
+    
+}
+p{
+    text-align: justify;
+    padding: 5px;
+}
+h1{
+    border-color: #a52a2a;
+    
+}
