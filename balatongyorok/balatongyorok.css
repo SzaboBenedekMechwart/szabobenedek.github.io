@@ -1,0 +1,50 @@
+body{
+    background-image: url(back.jpg);
+    margin: auto;
+}
+#header{
+    margin: auto;
+    padding: 20px;
+    min-width: 650px;
+    max-width: 1000px;
+    min-height: 207px;
+    background-image: url(panorama.jpg);
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+}
+div{
+    margin: auto;
+}
+#cimer{
+    float: right;
+    margin: 20px;
+}
+.keret{
+    
+    width: 450px;
+    background-color: #5B9CEA;
+    margin-top: 30px;
+    
+    padding: 10px;
+}
+table{
+    text-align: center;
+    background-color: #B0D1F1;
+    margin: 10px;
+    border-collapse: collapse;
+}
+#bal{
+    float: left;
+    width: 450px;
+
+}
+#right{
+    float: right;
+    width: 450px;
+}
+table td{
+border: 1px solid black;
+}
